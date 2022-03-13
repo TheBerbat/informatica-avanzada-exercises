@@ -4,13 +4,13 @@ This exercise consists in write a program that calculate the first 100 triangula
 ## How to use
 1. Clean project to build from scratch.
   ```sh
-  make all 
+  make clean
   ```
 2. Copile it with make.
   ```sh
-  make all 
+  make all
   ```
 3. Run the executable.
   ```sh
-  make run 
+  make run
   ```

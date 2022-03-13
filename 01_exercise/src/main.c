@@ -4,17 +4,9 @@
 
 int main()
 {
-    unsigned int n, res;
-
-    printf("Introduce an interger number: ");
-    if ( fscanf(stdin, "%d", &n) != 1)
-    {
-        printf("Error introducing the number, please rerun the program\n");
-        return EXIT_FAILURE;
-    }
-
-    res = triguangular(n);
-    printf("The result is: %u\n", res);
+    printf("Calculating first 100 triangular numbers:\n  n      Tn\n");
+    for (int i=1 ; i <= 100; ++i)
+        printf("%3d -> %4u\n", i, triguangular(i));
 
     return EXIT_SUCCESS;
 }
