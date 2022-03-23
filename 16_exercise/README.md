@@ -1,5 +1,5 @@
-# Exercise 1
-This exercise consists in write a function that modify the letter in the sencence passed to argument by reference in uppercase.
+# Exercise 18
+This exercise consists in create a function calls printVector that accept any vector class and prints their elements. If the vector is empty, prints "[vector vacio]"
 
 ## How to use
 1. Clean project to build from scratch.

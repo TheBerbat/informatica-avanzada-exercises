@@ -21,3 +21,10 @@ All exercises is standalone, it means that you dont need external libraries to c
  10. Create an exception that controls overflow of a division.
 ## List of exercises UML
  11. Create an UML class diagram about engineer application.
+
+ ## List of exercises Oscar
+ 12. Implementation of Graph, DFS and BFS algorithm.
+ 13. Search examples of use A* algorithm.
+ 14. Implementation of function that receive std:string and uppercase letters passed to parameters
+ 15. Create a vector that holds a..k and replace the vowels after.
+ 16. Implementation of printVector.
