@@ -28,4 +28,5 @@ All exercises is standalone, it means that you dont need external libraries to c
  14. Implementation of function that receive std:string and uppercase letters passed to parameters
  15. Create a vector that holds a..k and replace the vowels after.
  16. Implementation of printVector.
- 16. Use std library and containers iterators of C++.
+ 17. Use std library and containers iterators of C++.
+ 18. Implements a dictionary.
