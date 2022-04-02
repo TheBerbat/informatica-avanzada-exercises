@@ -9,14 +9,8 @@ int main()
             std::cout << c << " ";
         std::cout << '\n';
     };
-    auto replace_vowels = [](auto& vec){
-        std::for_each(vec.begin(), vec.end(), [](char& ch){
-            auto is_vowel = [](unsigned char e){
-                return e == 'a' || e == 'e' || e == 'i' || e == 'o' || e == 'u';
-            };
-            if (is_vowel(ch))
-                ch = '*';
-        });
+    auto is_vowel = [](unsigned char e){
+        return e == 'a' || e == 'e' || e == 'i' || e == 'o' || e == 'u';
     };
 
     // Create vector
@@ -34,7 +28,7 @@ int main()
 
     // Replace vowels
     //
-    replace_vowels(vec);
+    std::replace_if(vec.begin(), vec.end(), is_vowel, '*');
     // Prints state
     print_vec(vec);
     
