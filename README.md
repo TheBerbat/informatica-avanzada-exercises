@@ -30,3 +30,5 @@ All exercises is standalone, it means that you dont need external libraries to c
  16. Implementation of printVector.
  17. Use std library and containers iterators of C++.
  18. Implements a dictionary.
+ 19. Implements a palindrome template function.
+ 20. Creates a char vector from 'a' to 'k'. 
