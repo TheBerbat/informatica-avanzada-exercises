@@ -31,4 +31,7 @@ All exercises is standalone, it means that you dont need external libraries to c
  17. Use std library and containers iterators of C++.
  18. Implements a dictionary.
  19. Implements a palindrome template function.
- 20. Creates a char vector from 'a' to 'k'. 
+ 20. Creates a char vector from 'a' to 'k'.
+
+ ## List of exercises with GUI
+ 21. Implementation of a counter and factorial.
