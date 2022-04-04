@@ -1,5 +1,5 @@
-# Exercise 1
-This exercise consists in write a program that calculate the first 100 triangular numbers.
+# Exercise 2
+This exercise fix the proposed code so that it correctly calculate the number factorial.
 
 ## How to use
 1. Clean project to build from scratch.
