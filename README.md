@@ -35,3 +35,5 @@ All exercises is standalone, it means that you dont need external libraries to c
 
  ## List of exercises with GUI
  21. Implementation of a counter and factorial.
+ 22. Implementation of a counter and factorial with custom increment.
+ 23. Implements the GUI of dictionary.
