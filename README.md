@@ -37,4 +37,4 @@ All exercises is standalone, it means that you dont need external libraries to c
  21. Implementation of a counter and factorial.
  22. Implementation of a counter and factorial with custom increment.
  23. Implements the GUI of dictionary.
- 23. Implements a Database Client with preinserted queries.
+ 24. Implements a Database Client with preinserted queries.
