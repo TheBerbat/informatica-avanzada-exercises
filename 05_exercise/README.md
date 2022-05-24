@@ -1,5 +1,5 @@
 # Exercise 05
-Fix the code to allow copy char array.
+Fix memory leak and undefined behavior of the code.
 
 ## How to use
 1. Clean project to build from scratch.
