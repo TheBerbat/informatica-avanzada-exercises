@@ -2,7 +2,7 @@ TARGET = main
 
 SRCS  = $(shell find ./src -type f -name *.cpp)
 HEADS = $(shell find ./inc -type f -name *.hpp)
-OBJS = $(SRCS:.c=.o)
+OBJS = $(SRCS:.cpp=.o)
 DEPS = Makefile.depend
 
 INCLUDES = -I./inc
