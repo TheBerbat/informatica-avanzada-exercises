@@ -1,5 +1,5 @@
-# Exercise 06
-Create dynamic list with pointers.
+# Exercise 11
+Create an UML class diagram about engineer application.
 
 ## How to use
 1. Clean project to build from scratch.
